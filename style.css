@@ -366,10 +366,10 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 60%;
+    width: 70%;
 }
 .skills-content .right .css::before{
-    width: 20%;
+    width: 60%;
 }
 .skills-content .right .c::before{
     width: 80%;
@@ -378,7 +378,7 @@ section .title::after{
     width: 50%;
 }
 .skills-content .right .java::before{
-    width: 30%;
+    width: 60%;
 }
 
 /* teams section styling */
